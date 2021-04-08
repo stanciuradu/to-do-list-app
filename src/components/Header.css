@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    background-color: beige;
+    align-items: center;
+}
+.header img{
+    width: 12rem;
+    height: auto;
+    border-style: groove;
+    border-width: 0.7rem;
+    border-color: lawngreen;
+}
+.header h2{
+    border-style: ridge;
+    background-color: rgb(18, 241, 18);
+}

@@ -1,4 +1,4 @@
-// aceasta componenta este una de tip className, pentru ca la inceput vom avea un state initial al inputurilor din formular, dupa care in functie de ce intoduce/alege utlizatorul starea acestora se va schimba
+// aceasta componenta este una de tip Class, pentru ca la inceput vom avea un state initial al inputurilor din formular, dupa care in functie de ce intoduce/alege utlizatorul starea acestora se va schimba
 import React from 'react';
 class AddToDoForm extends React.Component{
     constructor(){

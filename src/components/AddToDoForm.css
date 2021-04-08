@@ -1,0 +1,14 @@
+.add-to-do-form form {
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+    margin: 0 auto;
+}
+
+.add-to-do-form form label {
+    text-align: center;
+    font-size: 1.5rem;
+    color: darkorchid;
+    font-style: italic;
+    font-variant: small-caps;
+}

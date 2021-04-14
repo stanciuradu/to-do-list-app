@@ -24,8 +24,8 @@ function ToDoList(props) {
                             />
                 })
             }
-            {/* button pentru stergerea listei de todo */}
-            <button onClick={(todoList)=>deletList(todoList)}>Sterge lista de todo</button>
+            {/* button pentru stergerea listei de todo in care pasez functia deletList */}
+            <button onClick={deletList}>Sterge lista de todo</button>
            
  
         </div>

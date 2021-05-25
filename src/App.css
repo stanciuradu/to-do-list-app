@@ -1,5 +1,5 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -14,16 +14,15 @@ body {
   text-align: center;
   cursor: pointer;
   background-color: rgb(209, 176, 180);
-  border-style:solid;
+  border-style: solid;
   height: auto;
 }
 
-.render .container:hover {
-  background-color: brown;
+.render .container {
+  color: blue;
 }
 
 .render .container {
   display: flex;
   justify-content: center;
 }
-

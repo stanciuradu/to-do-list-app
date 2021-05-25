@@ -3,14 +3,14 @@
   color: burlywood;
 }
 
-.to-do-list buttonc{
-  color:rgb(52, 0, 119);
-  padding: 10px 20px;
+.to-do-list button {
+  color: red;
+  padding: 10px 10px;
   font-size: 1rem;
   text-align: center;
   cursor: pointer;
   background-color: rgb(209, 176, 180);
-  border-style: double;
-  border-radius: 20px;
+  border-radius: 10px;
   height: auto;
+  margin-bottom: 1rem;
 }
